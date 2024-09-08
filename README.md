@@ -1,12 +1,12 @@
 #pendahuluan
 ##
-ANALISIS FAKTOR-FAKTOR YANG MEMPENGARUHI KEPUTUSAN PEMBELIAN DI E-COMMERCE ZARA MENGGUNAKAN ALGORITMA DECISION TREE
+			ANALISIS FAKTOR-FAKTOR YANG MEMPENGARUHI KEPUTUSAN PEMBELIAN DI E-COMMERCE ZARA MENGGUNAKAN ALGORITMA DECISION TREE
 
 
-ABSTRAK
+										ABSTRAK
 
-BAB I
-PENDAHULUAN
+										 BAB I
+									     PENDAHULUAN
 
 I.I	Latar Belakang
 	Dalam era digital yang semakin berkembang, e-commerce telah menjadi salah satu pilar utama dalam bisnis retail. Perusahaan-perusaahn besar, seperti Zara memanfaatkan platform daring untuk memperluas jangkauan konsumen dalam berbelanja, namun keputusan pembelian di platform onlne dipengaruhi oleh banyak factor, seprti harga, ulasan consumen, desain produk, pengalaman pengguna, hingga kecepatan pengiriman, untuk dapat bersaing di pasar yang kompetitif, memahami factor-faktor yang mempengaruhi keputusan pembelian menjadi kunci bagi perusahaan untuk mengoptimalkan strategi pemasaran, meningkatkan pengalaman konsumen, dan memaksimalkan keuntungan. 
